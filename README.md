@@ -38,7 +38,7 @@ Antes de comenzar, asegúrate de seguir estos pasos:
 
 ## Ejecución
 
-Una vez que hayas configurado tu archivo `.env` y hayas instalado las dependencias con `npm install`, puedes ejecutar el proyecto usando:
+Una vez que hayas configurado tu archivo `.env` colocando en el mongo_uri el usuario: campus y la contraseña: campus2023  y hayas instalado las dependencias con `npm install`, puedes ejecutar el proyecto usando:
 
 ```bash
 
